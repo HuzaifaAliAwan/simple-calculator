@@ -1,6 +1,6 @@
 # Simple Calculator App
 
-![Calculator App Screenshot](/UI_pictures/calculator_interface.jpeg)
+![Calculator App Screenshot](/UI_pictures/calculator_interface.jpg)
 
 ## Description
 
